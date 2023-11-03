@@ -7,7 +7,7 @@ import (
 	"io"
 	"net/http"
 
-	utils "github.com/anhao/go-ernie/internal"
+	utils "github.com/mrold/go-ernie/internal"
 )
 
 var (
